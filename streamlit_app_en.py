@@ -55,7 +55,7 @@ with st.sidebar:
 
 colL1,colL2 = st.columns([25,10])
 with colL2:
-  image = Image.open('Img_app2.png')
+  image = Image.open('Img_app2_en.png')
   st.image(image)
 
 
